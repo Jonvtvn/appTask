@@ -1,0 +1,11 @@
+.filters {
+    @apply flex gap-2 my-5
+}
+
+.filters button {
+    @apply px-3 py-1 rounded-full bg-neutral-900 text-white
+}
+
+.filters button.active {
+    @apply bg-neutral-700
+}

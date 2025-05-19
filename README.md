@@ -6,7 +6,7 @@ Una aplicación simple y eficiente de gestión de tareas desarrollada con [Angul
 
 ## 🎮 Demo
 
-[🚀 Ver juego en vivo](https://task-app-web-kappa.vercel.app/todo)  
+[🚀 Ver App en vivo](https://task-app-web-kappa.vercel.app/todo)  
 
 ---
 
